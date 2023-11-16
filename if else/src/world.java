@@ -12,7 +12,7 @@ public class world{
             System.out.println("going for Shopping");
        }else if(num==3){
             System.out.println("eating out");
-       }else if(num==5){
+       }else if(num==6){
             System.out.println("no plan");
        }else{
             System.out.println("enter valid option");
